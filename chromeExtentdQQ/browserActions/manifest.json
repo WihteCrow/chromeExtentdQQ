@@ -1,0 +1,13 @@
+{
+	"name"	:	"测试",
+	"version"	:	"13",
+	"manifest_version"	:	2,
+
+	"description"	:	"Browser Action",
+
+	"browser_action"	:	{
+		"default_icon"	:	"images/mq_icon.png",
+		"default_title"	:	"QQ",
+		"default_popup"	:	"popup.html"
+	}
+}
